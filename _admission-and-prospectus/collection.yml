@@ -1,0 +1,4 @@
+collections:
+  admission-and-prospectus:
+    output: true
+    order: []
