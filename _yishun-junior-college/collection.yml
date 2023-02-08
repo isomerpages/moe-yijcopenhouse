@@ -2,4 +2,5 @@ collections:
   yishun-junior-college:
     output: true
     order:
+      - YJC's Anniversaries.md
       - School Leaders.md
