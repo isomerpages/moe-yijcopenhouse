@@ -2,4 +2,5 @@ collections:
   programme-outline:
     output: true
     order:
+      - College Overview by the School Leaders.md
       - Open House Brochure.md
