@@ -2,4 +2,5 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Digital Literacies.md
       - Internationalisation & Cross Cultural Programme.md
