@@ -2,5 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Education & Career Guidance.md
       - Digital Literacies.md
       - Internationalisation & Cross Cultural Programme.md
