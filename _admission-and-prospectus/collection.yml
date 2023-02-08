@@ -2,6 +2,7 @@ collections:
   admission-and-prospectus:
     output: true
     order:
+      - Direct School Admission/.keep
       - 2023 Prospectus.md
       - Post JAE Appeal.md
       - Direct School Admission.md
