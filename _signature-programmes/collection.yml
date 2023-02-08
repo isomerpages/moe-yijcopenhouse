@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Student Leadership.md
       - Talent Development Programme.md
       - Education & Career Guidance.md
       - Digital Literacies.md
