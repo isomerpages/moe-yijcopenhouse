@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our College Identity.md
       - Our People.md
       - Heritage Wall.md
       - Contact Us.md
