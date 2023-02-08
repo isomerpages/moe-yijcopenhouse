@@ -2,6 +2,7 @@ collections:
   admission-and-prospectus:
     output: true
     order:
+      - Post JAE Appeal.md
       - Direct School Admission.md
       - Application Process.md
       - Selection Process.md
