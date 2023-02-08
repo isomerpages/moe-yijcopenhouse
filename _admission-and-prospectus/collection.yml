@@ -2,12 +2,12 @@ collections:
   admission-and-prospectus:
     output: true
     order:
+      - 2023 Prospectus.md
+      - Post JAE Appeal.md
+      - Direct School Admission/.keep
       - Direct School Admission/Direct School Admission.md
       - Direct School Admission/Application Process.md
       - Direct School Admission/Selection Process.md
-      - Direct School Admission/.keep
-      - 2023 Prospectus.md
-      - Post JAE Appeal.md
       - Returning Singaporeans.md
       - International Students.md
       - Scholarships and Financial Assistance.md
