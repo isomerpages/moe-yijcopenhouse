@@ -1,4 +1,5 @@
 collections:
   programme-outline:
     output: true
-    order: []
+    order:
+      - Open House Brochure.md
