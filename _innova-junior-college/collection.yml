@@ -1,4 +1,5 @@
 collections:
   innova-junior-college:
     output: true
-    order: []
+    order:
+      - School Leadership.md
