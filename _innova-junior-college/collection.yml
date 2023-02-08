@@ -2,6 +2,7 @@ collections:
   innova-junior-college:
     output: true
     order:
+      - College Facilities.md
       - Aesthetic Appreciation in IJC.md
       - Sports Programmes.md
       - National Education.md
