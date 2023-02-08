@@ -2,6 +2,7 @@ collections:
   innova-junior-college:
     output: true
     order:
+      - The Teacher.md
       - Exploring Learning Beyond The Classroom.md
       - Student Leadership.md
       - Digital Literacies.md
