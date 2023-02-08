@@ -21,9 +21,9 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Actual Day Programme
+      subtitle: yijc open house 2023
+      description: (10am to 5pm) @ Yishun Innova Junior College
+      button: find out more
+      url: /programme-outline/actual-day-programme/
 ---
