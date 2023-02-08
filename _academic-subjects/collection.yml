@@ -2,4 +2,5 @@ collections:
   academic-subjects:
     output: true
     order:
+      - Subject Combi & Eligibility/Subject Combination Eligibility Criteria.md
       - Subject Combi & Eligibility/.keep
