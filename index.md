@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Title
+title: YIJC Open House 2023
 description: An Isomer site of the Singapore Government
-image: /images/logo.png
+image: /images/logo.jpg
 permalink: /
 notification: ""
 sections:
@@ -33,3 +33,4 @@ sections:
       image: /images/infopic.jpg
       alt: Image alt text
 ---
+
