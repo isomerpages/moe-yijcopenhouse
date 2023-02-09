@@ -1,2 +1,14 @@
 logo: /images/logo.png
-links: []
+links:
+  - title: Programme Outline
+    collection: programme-outline
+  - title: Academic Subjects
+    collection: academic-subjects
+  - title: Co-Curricular Activities
+    collection: cca
+  - title: Signature Programmes
+    collection: signature-programmes
+  - title: Admission & Prospectus
+    collection: admission-and-prospectus
+  - title: About Us
+    collection: about-us
