@@ -4,7 +4,14 @@ permalink: /cca/
 description: ""
 ---
 ### **Co-curricular Activities** (require school to provide images)
-#### **Performing Arts**
+
+#### **AMP UP your College experience with our co-curricular opportunities**
+Discover your niche and pursue your passion with our broad range of Co-curricular Activities. Interested in sports? YIJC boasts a wide variety of Sports teams which include Air Weapons, Ten-pin Bowling, and Ultimate Frisbee. Passionate about the Arts? Consider joining the Musicians’ Club, Art Club, as well as our Culture & Aesthetic Club. With the Makers’ Academy, Students’ Council, Interact Club, and many more, you are spoilt for choice in your quest to scale new co-curricular heights.
+
+Click on the relevant CCA groups and find out more!
+
+
+##### **Performing Arts**
 
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/chinese-orchestra/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/culture-and-aesthetic-club/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
@@ -27,7 +34,7 @@ description: ""
 |:---:|:---:|:---:|
 | [English Language Drama & Debate Society (ELDDS)](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/eldds/) | [Musicians' Club](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/musicians-club/) | [Symphonic Band](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/performing-arts/symphonic-band/) |
 
-#### **Clubs & Societies**
+##### **Clubs & Societies**
 
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/art-and-guitar/club/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/class-leaders-council/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
@@ -50,7 +57,7 @@ description: ""
 |:---:|:---:|:---:|
 | [Makers' Academy](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/makers-academy/) | [Outdoor Adventure Club](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/outdoor-adventure-club/) | [Students' Council](https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/clubs-and-societies/students-council/) |
 
-#### **Sports & Games**
+##### **Sports & Games**
 
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/sports-and-games/air-weapons/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://staging.dy8spnni5p31k.amplifyapp.com/culture/cca/sports-and-games/badminton/"><img src="/images/cca.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
