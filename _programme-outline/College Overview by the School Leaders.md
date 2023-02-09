@@ -16,7 +16,7 @@ In the second video, Mr de Silva introduces the post-secondary pathways availabl
 
 The third video in this series is presented by our Vice-Principal, Mrs Lee Hui Xin. She will provide an overview of the A-level curriculum, the subjects on offer at YIJC, and the various subject eligibility requirements you should be aware of.
 
-<iframe width="408" height="265" src="https://www.youtube.com/embed/VkqeoTm7kO4" title="(3) Overview of the ‘A’ Level Curriculum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/VkqeoTm7kO4" title="(3) Overview of the ‘A’ Level Curriculum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The final three videos are presented by our Vice-Principal, Mr Marc Lim. Collectively, these three videos will provide a glimpse into the opportunities offered at YIJC. The videos introduce the various signature programmes, activities, and opportunities that aim to nurture YIJC students into Agile Learners, Resilient Leaders, and Future-Ready Citizens ready for the A-levels and also the road ahead!
 
@@ -24,4 +24,4 @@ The final three videos are presented by our Vice-Principal, Mr Marc Lim. Collect
 
 <iframe width="394" height="265" src="https://www.youtube.com/embed/jSN_BGD78jg" title="(5) Resilient Leaders @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="401" height="265" src="https://www.youtube.com/embed/VPzR9CjaCys" title="(6) Future Ready Citizens @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/VPzR9CjaCys" title="(6) Future Ready Citizens @ YIJC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
