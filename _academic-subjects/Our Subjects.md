@@ -23,7 +23,7 @@ To find out more, click on the FAQ sheets that compile Frequently Asked Question
 <label for="accordion1">Economics</label>
 <div>
 <p>
-text
+You may view the Economics FAQ sheet here: <a href="link">Econs FAQs 2023</a>
 </p>
 </div>
 </li>
@@ -32,7 +32,9 @@ text
 <label for="accordion2">English Language</label>
 <div>
 <p>
-text
+You may view the FAQ sheet for General Paper and English Literature here:<br>
+<a href="link">GP FAQs 2023</a><br>
+<a href="link">Eng Lit FAQs 2023</a>	
 </p>
 </div>
 </li>
@@ -41,7 +43,7 @@ text
 <label for="accordion3">Humanities</label>
 <div>
 <p>
-text	
+You may view the Humanities FAQ sheet here: <a href="link">Humanities FAQs 2023	</a>
 </p>
 </div>
 </li>
@@ -51,7 +53,9 @@ text
 <label for="accordion4">Mathematics and H2 Computing</label>
 <div>
 <p>
-text
+You may view the FAQ sheet for Mathematics and H2 Computing here:<br>
+<a href="link">Math Dept_Computing_FAQ sheet_template</a><br>
+<a href="link">Mathematics_Subject_Subject FAQ sheet</a>
 </p>
 </div>
 </li>  	
@@ -60,7 +64,7 @@ text
 <label for="accordion5">Mother Tongue</label>
 <div>
 <p>
-text
+You may view the FAQ sheet for Mother Tongue Languages here: <a href="link">MTL FAQs 2023</a>
 </p>
 </div>
 </li>	
@@ -69,7 +73,7 @@ text
 <label for="accordion6">Project Work</label>
 <div>
 <p>
-text
+You may view the FAQ sheet for Project Work here:<a href="link"> PW FAQs 2023</a>
 </p>
 </div>
 </li>	
@@ -78,7 +82,7 @@ text
 <label for="accordion7">Science</label>
 <div>
 <p>
-text
+You may view the FAQ sheet for the Sciences here: <a href="link">Science FAQs 2023</a>
 </p>
 </div>
 </li>	
