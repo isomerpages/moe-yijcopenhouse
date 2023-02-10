@@ -16,3 +16,70 @@ These are the subjects on offer at YIJC:
 We also offer the Malay Language Elective Programme!
 
 To find out more, click on the FAQ sheets that compile Frequently Asked Questions for each subject and our responses!
+
+<ul class="jekyllcodex_accordion">
+<li>
+<input type="checkbox" id="accordion1">
+<label for="accordion1">Economics</label>
+<div>
+<p>
+text
+</p>
+</div>
+</li>
+<li>
+<input type="checkbox" id="accordion2">
+<label for="accordion2">English Language</label>
+<div>
+<p>
+text
+</p>
+</div>
+</li>
+<li>
+<input type="checkbox" id="accordion3">
+<label for="accordion3">Humanities</label>
+<div>
+<p>
+text	
+</p>
+</div>
+</li>
+	
+<li>
+<input type="checkbox" id="accordion4">
+<label for="accordion4">Mathematics and H2 Computing</label>
+<div>
+<p>
+text
+</p>
+</div>
+</li>  	
+<li>
+<input type="checkbox" id="accordion5">
+<label for="accordion5">Mother Tongue</label>
+<div>
+<p>
+text
+</p>
+</div>
+</li>	
+<li>
+<input type="checkbox" id="accordion6">
+<label for="accordion6">Project Work</label>
+<div>
+<p>
+text
+</p>
+</div>
+</li>	
+<li>
+<input type="checkbox" id="accordion7">
+<label for="accordion7">Science</label>
+<div>
+<p>
+text
+</p>
+</div>
+</li>	
+</ul>
