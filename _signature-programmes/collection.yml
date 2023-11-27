@@ -1,0 +1,12 @@
+collections:
+  signature-programmes:
+    output: true
+    order:
+      - Signature Programmes.md
+      - Resilience Building Programme.md
+      - Malay Language Elective Programme.md
+      - Student Leadership.md
+      - Talent Development Programme.md
+      - Education & Career Guidance.md
+      - Digital Literacies.md
+      - Internationalisation & Cross Cultural Programme.md

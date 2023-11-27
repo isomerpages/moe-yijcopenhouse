@@ -1,0 +1,9 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About YIJC.md
+      - Our College Identity.md
+      - Our People.md
+      - Heritage Wall.md
+      - Contact Us.md

@@ -1,0 +1,7 @@
+collections:
+  programme-outline:
+    output: true
+    order:
+      - Actual Day Programme.md
+      - College Overview by the School Leaders.md
+      - Open House Brochure.md
